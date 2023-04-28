@@ -17,7 +17,7 @@ This is a Golang library for working with the DHL API. It allows you to easily c
 
 # Realisation
 
-- Bearer Auth
+- Basic Auth
 - Clean Architecture
 
 # Installation
